@@ -1,5 +1,4 @@
 <br />
-<br />
 
 ## Hello world, I'm jmakhack ヾ(＾∇＾)
 
