@@ -6,7 +6,7 @@
 <br />
 <br />
 
-### I'm a Gamer, Developer, and Incessant Learner
+### I'm an Impassioned Developer and Incessant Learner
 
 - 🔭 &nbsp; &nbsp;I recently participated in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
 - 🌱 &nbsp; &nbsp;I’m currently learning svelte, snowpack, deno, Java, C, and more
