@@ -1,4 +1,3 @@
-<br />
 
 ## Hello world, I'm jmakhack ヾ(＾∇＾)
 
@@ -21,8 +20,10 @@
 [<img align="left" alt="Jmak | YouTube" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg" />][youtube]
 [<img align="left" alt="himsoncafe | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="joshmak | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="jmakhack | LeetCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
 [<img align="left" alt="jmaki.matcha | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" />][instagram]
 [<img align="left" alt="jmak | MyAnimeList" width="22px" src="https://image.myanimelist.net/ui/OK6W_koKDTOqqqLDbIoPAiC8a86sHufn_jOI-JGtoCQ" />][myanimelist]
+
 <br />
 <br />
 
@@ -70,4 +71,5 @@
 [youtube]: https://youtube.com/user/MakMakProductions
 [instagram]: https://www.instagram.com/jmaki.matcha
 [linkedin]: https://www.linkedin.com/in/joshmak/
+[leetcode]: https://leetcode.com/jmakhack/
 [myanimelist]: https://myanimelist.net/profile/jmak
