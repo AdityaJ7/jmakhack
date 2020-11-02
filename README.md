@@ -9,8 +9,8 @@
 ### I'm an Impassioned Developer and Incessant Learner
 
 - 🔭 &nbsp; &nbsp;I recently participated in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
-- 🌱 &nbsp; &nbsp;I’m currently learning svelte, snowpack, deno, Java, C, and more
-- 👯 &nbsp; &nbsp;I’m excited to collaborate with others on cool projects
+- 🌱 &nbsp; &nbsp;I’m currently learning svelte, snowpack, deno, Java, C, computer architecture, and more
+- 👯 &nbsp; &nbsp;I’m excited to collaborate with others on cool and interesting projects
 - 🥅 &nbsp; &nbsp;2020 Goals: Contribute to a wide array of Open Source projects
 - ⚡ &nbsp; &nbsp;Fun facts: I've traveled to Japan five times and look forward to more travels
 <br />
@@ -52,6 +52,7 @@
 <img align="left" alt="yarn" width="26px" src="https://raw.githubusercontent.com/yarnpkg/assets/master/yarn-kitten-circle.png"/>
 <img align="left" alt="Lodash" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/lodash-283360.png"/>
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
+<img align="left" alt="Heroku" width="26px" src="https://brand.heroku.com/static/media/heroku-logo-stroke.aa0b53be.svg"/>
 
 <br />
 <br />
