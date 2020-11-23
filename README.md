@@ -16,6 +16,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="jmakhack@protonmail.com | Email" width="22px" src="https://i.imgur.com/AM81Mzp.png" />][email]
 [<img align="left" alt="jmakhack | GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg" />][github]
 [<img align="left" alt="himsoncafe | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="bittiemelon | discord" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][discord]
@@ -66,6 +67,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmakhack&theme=buefy&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[email]: jmakhack@protonmail.com
 [github]: https://github.com/jmakhack
 [twitter]: https://twitter.com/himsoncafe
 [discord]: https://discord.com/users/672586325391835196
