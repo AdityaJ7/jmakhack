@@ -8,7 +8,7 @@
 ### I'm an Impassioned Developer and Incessant Learner
 
 - 🔭 &nbsp; &nbsp;I recently participated in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
-- 🌱 &nbsp; &nbsp;I’m currently learning svelte, snowpack, deno, Java, C, computer architecture, and more
+- 🌱 &nbsp; &nbsp;I’m currently learning svelte, snowpack, deno, Java, C, micro-frontend architecture, and more
 - 👯 &nbsp; &nbsp;I’m excited to collaborate with others on cool and interesting projects
 - 🥅 &nbsp; &nbsp;2020 Goals: Contribute to a wide array of Open Source projects
 - ⚡ &nbsp; &nbsp;Fun facts: I've traveled to Japan five times and look forward to more travels
