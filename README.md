@@ -67,7 +67,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmakhack&theme=buefy&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[email]: jmakhack@protonmail.com
+[email]: mailto:jmakhack@protonmail.com
 [github]: https://github.com/jmakhack
 [twitter]: https://twitter.com/himsoncafe
 [discord]: https://discord.com/users/672586325391835196
