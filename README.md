@@ -7,7 +7,7 @@
 
 ### I'm an Impassioned Developer and Incessant Learner
 
-- 🔭 &nbsp; &nbsp;I recently participated in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
+- 🔭 &nbsp; &nbsp;I recently participated in [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and [Advent of Code](https://adventofcode.com/)
 - 🌱 &nbsp; &nbsp;I’m currently learning svelte, snowpack, deno, micro-frontend architecture, and more
 - 👯 &nbsp; &nbsp;I’m excited to collaborate with others on cool and interesting projects
 - 🥅 &nbsp; &nbsp;2020 Goals: Contribute to a wide array of Open Source projects
