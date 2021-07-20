@@ -26,6 +26,13 @@
 <br />
 <br />
 
+### Support me:
+
+[<img align="left" alt="jmakhack | ko-fi" width="22px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded.png" />][ko-fi]
+
+<br />
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -57,6 +64,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jmakhack&style=flat-square&color=blueviolet)
 
+[ko-fi]: https://ko-fi.com/jmakhack
 [email]: mailto:jmakhack@protonmail.com
 [github]: https://github.com/jmakhack
 [twitter]: https://twitter.com/himsoncafe
