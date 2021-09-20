@@ -17,18 +17,18 @@
 ### Connect with me:
 
 [<img align="left" alt="jmakhack@protonmail.com | Email" width="22px" src="https://i.imgur.com/AM81Mzp.png" />][email]
-[<img align="left" alt="jmakhack | GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg" />][github]
-[<img align="left" alt="himsoncafe | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="bittiemelon | discord" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />][discord]
-[<img align="left" alt="joshmak | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="jmaki.matcha | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" />][instagram]
+[<img align="left" alt="jmakhack | GitHub" width="22px" src="https://i.imgur.com/LQMVMEo.png" />][github]
+[<img align="left" alt="himsoncafe | Twitter" width="22px" src="https://i.imgur.com/NEuVOYb.png" />][twitter]
+[<img align="left" alt="bittiemelon | discord" width="22px" src="https://i.imgur.com/HJJbFz6.png" />][discord]
+[<img align="left" alt="joshmak | LinkedIn" width="22px" src="https://i.imgur.com/JvaEEp9.png" />][linkedin]
+[<img align="left" alt="jmaki.matcha | Instagram" width="22px" src="https://i.imgur.com/mFlKAjH.png" />][instagram]
 
 <br />
 <br />
 
 ### Support me:
 
-[<img align="left" alt="jmakhack | ko-fi" width="22px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded.png" />][ko-fi]
+[<img align="left" alt="jmakhack | ko-fi" width="22px" src="https://i.imgur.com/w1XbBtv.png" />][ko-fi]
 
 <br />
 <br />
