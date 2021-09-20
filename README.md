@@ -17,7 +17,7 @@
 ### Connect with me:
 
 [<img align="left" alt="jmakhack@protonmail.com | Email" width="22px" src="https://i.imgur.com/AM81Mzp.png" />][email]
-[<img align="left" alt="jmakhack | GitHub" width="22px" src="https://i.imgur.com/LQMVMEo.png" />][github]
+[<img align="left" alt="jmakhack | GitHub" width="22px" src="https://i.imgur.com/eOcoQ2e.png" />][github]
 [<img align="left" alt="himsoncafe | Twitter" width="22px" src="https://i.imgur.com/NEuVOYb.png" />][twitter]
 [<img align="left" alt="bittiemelon | discord" width="22px" src="https://i.imgur.com/HJJbFz6.png" />][discord]
 [<img align="left" alt="joshmak | LinkedIn" width="22px" src="https://i.imgur.com/JvaEEp9.png" />][linkedin]
