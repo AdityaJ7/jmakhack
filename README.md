@@ -8,7 +8,7 @@
 ### I'm an Impassioned Developer and Incessant Learner
 
 - 🔭 &nbsp; &nbsp;I recently participated in [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and [Advent of Code](https://adventofcode.com/)
-- 🌱 &nbsp; &nbsp;I’m currently learning Svelte, Snowpack, Deno, SolidJS, and more
+- 🌱 &nbsp; &nbsp;I’m currently learning Svelte, Redux, Vite, SolidJS, and more
 - 👯 &nbsp; &nbsp;I’m excited to collaborate with others on cool and interesting projects
 - 🥅 &nbsp; &nbsp;2022 Goals: Contribute to a wide array of Open Source projects
 - ⚡ &nbsp; &nbsp;Fun facts: I've traveled to Japan five times and look forward to more travels
