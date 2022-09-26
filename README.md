@@ -4,6 +4,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/himsoncafe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjmakhack&screen_name=himsoncafe)
 
+[![Discord Server](https://img.shields.io/discord/1023562225790767175?color=%20%237289DA&label=join%20the%20discord&logo=discord&logoColor=%20%237289DA&style=for-the-badge)](https://discord.gg/RTgxfFW9mS)
+
 <br />
 
 ### I'm an Impassioned Developer and Incessant Learner
